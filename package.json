@@ -1,0 +1,15 @@
+{
+  "name": "forge-device42",
+  "version": "0.0.0",
+  "description": "Device42 plugin for forge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott M",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "restify": "^2.8.2"
+  }
+}
